@@ -1,0 +1,1 @@
+How can you use `JOptionPane` in Java to get user input for each element of a 2D array and then print the array values using nested `for` loops? Use the method where the array size is specified and the values are input through dialog boxes.
